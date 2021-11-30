@@ -1,0 +1,1580 @@
+﻿Log file open, 11/29/21 11:09:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ThiefGuard
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.292523
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-0
+LogInit: Engine Version: 4.24.3-0+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-0+++UE4+Release-4.24
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Nov 18 2021 15:30:48
+LogInit: Compiled with Visual C++: 19.16.27045.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine-4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.29-06.09.58:823][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.29-06.09.58:823][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Engine.ini]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Engine.ini]
+[2021.11.29-06.09.58:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Engine.ini]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Engine.ini]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.29-06.09.58:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Engine.ini]
+[2021.11.29-06.09.58:824][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Engine.ini]
+[2021.11.29-06.09.58:880][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.29-06.09.58:880][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.11.29-06.09.58:881][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.11.29-06.09.58:888][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.29-06.09.58:893][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.29-06.09.58:952][  0]LogHAL: Display: Platform has ~ 32 GB [34222575616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.29-06.09.58:952][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.29-06.09.58:963][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.29-06.09.58:963][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.29-06.09.58:964][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.29-06.09.58:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.29-06.09.58:966][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Scalability.ini]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.11.29-06.09.58:967][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.29-06.09.58:976][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.29-06.09.58:976][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.29-06.09.58:976][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Config/Windows/Engine.ini]
+[2021.11.29-06.09.58:989][  0]LogInit: Computer: UE
+[2021.11.29-06.09.58:989][  0]LogInit: User: zi
+[2021.11.29-06.09.58:994][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.29-06.09.58:994][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.29-06.09.58:994][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.11.29-06.09.58:994][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.29-06.09.58:994][  0]LogMemory: Process Physical Memory: 107.20 MB used, 107.20 MB peak
+[2021.11.29-06.09.58:994][  0]LogMemory: Process Virtual Memory: 102.04 MB used, 102.04 MB peak
+[2021.11.29-06.09.58:994][  0]LogMemory: Physical Memory: 4052.18 MB used,  28585.01 MB free, 32637.19 MB total
+[2021.11.29-06.09.58:994][  0]LogMemory: Virtual Memory: 5180.63 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2021.11.29-06.09.58:997][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.29-06.09.59:740][  0]LogInit: Using OS detected language (en-US).
+[2021.11.29-06.09.59:740][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.29-06.09.59:833][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.29-06.10.00:376][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.29-06.10.00:961][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.29-06.10.00:961][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.29-06.10.03:089][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.29-06.10.03:089][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.29-06.10.03:089][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.29-06.10.03:089][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.29-06.10.03:206][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2021.11.29-06.10.03:206][  0]LogD3D11RHI:       8050/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.29-06.10.03:208][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.29-06.10.03:208][  0]LogD3D11RHI:       0/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.29-06.10.03:208][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.29-06.10.03:220][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.29-06.10.03:231][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.29-06.10.03:231][  0]LogWindows: EnumDisplayDevices:
+[2021.11.29-06.10.03:231][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2021.11.29-06.10.03:231][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2021.11.29-06.10.03:231][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2021.11.29-06.10.03:231][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2021.11.29-06.10.03:231][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.29-06.10.03:231][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2021.11.29-06.10.03:231][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2021.11.29-06.10.03:231][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2021.11.29-06.10.03:231][  0]LogRHI: Texture pool is 5635 MB (70% of 8050 MB)
+[2021.11.29-06.10.03:296][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.29-06.10.03:296][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.29-06.10.03:548][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.29-06.10.04:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.29-06.10.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.29-06.10.04:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.29-06.10.04:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.29-06.10.04:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.29-06.10.04:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.29-06.10.04:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.29-06.10.04:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.29-06.10.04:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.29-06.10.05:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.29-06.10.05:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.29-06.10.05:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.29-06.10.05:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'XXX'
+[2021.11.29-06.10.05:061][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.29-06.10.05:198][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.29-06.10.05:796][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (C:/Users/zi/Documents/GitHub/ThiefGuard/Intermediate/Shaders/WorkingDirectory/9908/).
+[2021.11.29-06.10.05:796][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zi/AppData/Local/Temp/UnrealShaderWorkingDir/2C4A080E4A6F0514BE190682B26D9463/'.
+[2021.11.29-06.10.05:804][  0]LogXGEController: Cleaning working directory: C:/Users/zi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.11.29-06.10.05:804][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.29-06.10.05:805][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.29-06.10.05:805][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.29-06.10.08:354][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.29-06.10.08:423][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/zi/Documents/GitHub/ThiefGuard/DerivedDataCache/Boot.ddc.
+[2021.11.29-06.10.08:423][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zi/Documents/GitHub/ThiefGuard/DerivedDataCache/Boot.ddc
+[2021.11.29-06.10.08:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/zi/Documents/GitHub/ThiefGuard/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.29-06.10.08:423][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.29-06.10.08:437][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.29-06.10.08:437][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2021.11.29-06.10.08:447][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2021.11.29-06.10.08:447][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.29-06.10.08:447][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.29-06.10.09:843][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.11.29-06.10.09:917][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.29-06.10.09:996][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.29-06.10.12:110][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2021.11.29-06.10.18:267][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.29-06.10.21:554][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.29-06.10.21:554][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.29-06.10.21:554][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.29-06.10.21:554][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.29-06.10.21:554][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.29-06.10.21:937][  0]LogNetVersion: ThiefGuard 1.0.0, NetCL: 0, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2887406328)
+[2021.11.29-06.10.37:501][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_24x.png' error.
+[2021.11.29-06.10.37:501][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_24x.png
+[2021.11.29-06.10.37:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_128x.png' error.
+[2021.11.29-06.10.37:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_128x.png
+[2021.11.29-06.10.37:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_128x.png' error.
+[2021.11.29-06.10.37:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_128x.png
+[2021.11.29-06.10.42:459][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.057104 seconds
+[2021.11.29-06.10.42:507][  0]LogUObjectArray: 46729 objects as part of root set at end of initial load.
+[2021.11.29-06.10.42:507][  0]LogUObjectAllocator: 8133432 out of 0 bytes used by permanent object pool.
+[2021.11.29-06.10.42:507][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.29-06.10.46:982][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.29-06.10.47:019][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.29-06.10.47:713][  0]SourceControl: Source control is disabled
+[2021.11.29-06.10.47:723][  0]SourceControl: Source control is disabled
+[2021.11.29-06.10.47:794][  0]SourceControl: Source control is disabled
+[2021.11.29-06.10.47:817][  0]SourceControl: Source control is disabled
+[2021.11.29-06.10.47:834][  0]SourceControl: Source control is disabled
+[2021.11.29-06.10.49:198][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.29-06.10.49:315][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.29-06.10.49:315][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.29-06.10.49:855][  0]LogOcInput: OculusInput pre-init called
+[2021.11.29-06.10.49:923][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.29-06.10.49:923][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.29-06.10.50:828][  0]LogEngine: Initializing Engine...
+[2021.11.29-06.10.50:847][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.29-06.10.50:889][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.020 s
+[2021.11.29-06.10.51:837][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.29-06.10.52:190][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.29-06.10.52:349][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.29-06.10.52:350][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.29-06.10.52:350][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.29-06.10.52:350][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.29-06.10.52:350][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.29-06.10.52:350][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.29-06.10.52:350][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.29-06.10.52:350][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.29-06.10.52:355][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.29-06.10.52:355][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: Channel Order:
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.29-06.10.52:394][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.29-06.10.52:419][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.11.29-06.10.52:460][  0]LogInit: FAudioDevice initialized.
+[2021.11.29-06.10.52:461][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.29-06.10.52:490][  0]LogDerivedDataCache: Saved boot cache 0.03s 78MB C:/Users/zi/Documents/GitHub/ThiefGuard/DerivedDataCache/Boot.ddc.
+[2021.11.29-06.10.52:490][  0]LogInit: Texture streaming: Enabled
+[2021.11.29-06.10.52:659][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.29-06.10.52:660][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={AEA14747-44B7-5F1C-A0D2-83BC65875E55}
+[2021.11.29-06.10.52:660][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.29-06.10.52:661][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.29-06.10.52:841][  0]LogInit: Transaction tracking system initialized
+[2021.11.29-06.10.53:091][  0]BlueprintLog: New page: Editor Load
+[2021.11.29-06.10.54:126][  0]LocalizationService: Localization service is disabled
+[2021.11.29-06.10.58:397][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zi/Documents/GitHub/ThiefGuard/Content/' took 0.01s
+[2021.11.29-06.10.58:397][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.11.29-06.10.58:397][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.29-06.11.02:179][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_24x.png' error.
+[2021.11.29-06.11.02:179][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_24x.png
+[2021.11.29-06.11.02:179][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_128x.png' error.
+[2021.11.29-06.11.02:179][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_128x.png
+[2021.11.29-06.11.02:179][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_128x.png' error.
+[2021.11.29-06.11.02:179][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/XXX/Engine/Content/Launcher/Platform_XXX_128x.png
+[2021.11.29-06.11.03:780][  0]SourceControl: Source control is disabled
+[2021.11.29-06.11.04:046][  0]LogSlate: Took 0.029178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.29-06.11.07:761][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.11.29-06.11.07:773][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.11.29-06.11.07:776][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.11.29-06.11.07:818][  0]Cmd: MAP LOAD FILE="C:/Users/zi/Documents/GitHub/ThiefGuard/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.29-06.11.07:819][  0]LightingResults: New page: Lighting Build
+[2021.11.29-06.11.07:858][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.11.07:885][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.11.07:893][  0]MapCheck: New page: Map Check
+[2021.11.29-06.11.07:893][  0]LightingResults: New page: Lighting Build
+[2021.11.29-06.11.08:085][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2021.11.29-06.11.13:390][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.29-06.11.13:723][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.29-06.11.13:894][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.11.29-06.11.13:894][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.29-06.11.13:906][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 11.335ms to complete.
+[2021.11.29-06.11.13:906][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.109
+[2021.11.29-06.11.14:836][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.11.14:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.11.14:860][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.11.14:864][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.11.15:477][  0]LogCollectionManager: Loaded 0 collections in 0.000545 seconds
+[2021.11.29-06.11.15:545][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Collections/' took 0.00s
+[2021.11.29-06.11.15:545][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zi/Documents/GitHub/ThiefGuard/Content/Developers/zi/Collections/' took 0.00s
+[2021.11.29-06.11.15:545][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zi/Documents/GitHub/ThiefGuard/Content/Collections/' took 0.00s
+[2021.11.29-06.11.15:545][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 3015 classes and 717 folders.
+[2021.11.29-06.11.15:586][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.29-06.11.17:724][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.29-06.11.17:774][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.11.29-06.11.18:150][  0]LogSlate: Took 0.048922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.29-06.11.18:196][  0]LogSlate: Took 0.016578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.29-06.11.18:672][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.11.29-06.11.19:340][  0]LogSlate: Took 0.014000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.29-06.11.19:601][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.29-06.11.19:601][  0]LogLoad: (Engine Initialization) Total time: 99.72 seconds
+[2021.11.29-06.11.19:601][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.29-06.11.19:792][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.29-06.11.20:939][ 14]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.29-06.11.21:384][ 21]LogAssetRegistry: Asset discovery search completed in 69.2751 seconds
+[2021.11.29-06.11.21:387][ 21]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2021.11.29-06.12.13:782][218]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.12.13:783][218]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/gameStart.gameStart
+[2021.11.29-06.12.13:820][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.29-06.12.13:821][218]Cmd: MAP LOAD FILE="C:/Users/zi/Documents/GitHub/ThiefGuard/Content/Maps/gameStart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.29-06.12.13:822][218]LightingResults: New page: Lighting Build
+[2021.11.29-06.12.13:831][218]LoadErrors: New page: Loading map: gameStart.umap
+[2021.11.29-06.12.13:831][218]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.12.13:831][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.12.13:831][218]MapCheck: New page: Map Check
+[2021.11.29-06.12.13:831][218]LightingResults: New page: Lighting Build
+[2021.11.29-06.12.13:870][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.11.29-06.12.13:895][218]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.29-06.12.13:919][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.11.29-06.12.13:929][218]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.29-06.12.13:929][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2021.11.29-06.12.13:929][218]LogFileHelpers: Loading map 'gameStart' took 0.109
+[2021.11.29-06.12.15:619][364]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/gameStart.gameStart:PersistentLevel.gameStart
+[2021.11.29-06.12.15:892][364]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2021.11.29-06.12.16:820][364]LogSlate: Took 0.036557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.29-06.12.17:117][365]LogSlate: Took 0.003620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.29-06.12.19:609][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={AEA14747-44B7-5F1C-A0D2-83BC65875E55}
+[2021.11.29-06.12.31:184][926]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/gameStartOldd.gameStartOldd
+[2021.11.29-06.12.44:360][358]BlueprintLog: New page: Compile gameStartOldd
+[2021.11.29-06.12.44:424][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.11.29-06.12.44:877][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/gameStartOldd" FILE="C:/Users/zi/Documents/GitHub/ThiefGuard/Content/UI/gameStartOldd.uasset" SILENT=true
+[2021.11.29-06.12.44:933][399]LogSavePackage: Moving 'C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/gameStartOldd0F241ACC4CDDAF4EA8296FABDED19F40.tmp' to 'C:/Users/zi/Documents/GitHub/ThiefGuard/Content/UI/gameStartOldd.uasset'
+[2021.11.29-06.12.44:949][399]AssetCheck: New page: Asset Save: gameStartOldd
+[2021.11.29-06.12.44:949][399]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/gameStartOldd.gameStartOldd
+[2021.11.29-06.12.48:975][828]LogEditorTransaction: Undo Delete current selection
+[2021.11.29-06.12.52:326][145]BlueprintLog: New page: Compile gameStartOldd
+[2021.11.29-06.12.52:361][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.11.29-06.12.53:458][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/gameStart" FILE="C:/Users/zi/Documents/GitHub/ThiefGuard/Content/Maps/gameStart.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.29-06.12.53:499][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.11.29-06.12.53:791][251]LogSavePackage: Moving 'C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/gameStartCEA3D6404087C8D5DC9F6D9CC064F39D.tmp' to 'C:/Users/zi/Documents/GitHub/ThiefGuard/Content/Maps/gameStart.umap'
+[2021.11.29-06.12.53:815][251]AssetCheck: New page: Asset Save: gameStart
+[2021.11.29-06.12.53:815][251]LogContentValidation: Display: Validating World /Game/Maps/gameStart.gameStart
+[2021.11.29-06.12.54:874][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/gameStartOldd" FILE="C:/Users/zi/Documents/GitHub/ThiefGuard/Content/UI/gameStartOldd.uasset" SILENT=true
+[2021.11.29-06.12.54:883][366]LogSavePackage: Moving 'C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/gameStartOldd09931E9D42536CDF34A72B81A5B45138.tmp' to 'C:/Users/zi/Documents/GitHub/ThiefGuard/Content/UI/gameStartOldd.uasset'
+[2021.11.29-06.12.54:897][366]AssetCheck: New page: Asset Save: gameStartOldd
+[2021.11.29-06.12.54:898][366]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/gameStartOldd.gameStartOldd
+[2021.11.29-06.13.21:018][936]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.29-06.13.48:938][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/gameStart" FILE="C:/Users/zi/Documents/GitHub/ThiefGuard/Content/Maps/gameStart.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.29-06.13.49:000][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.11.29-06.13.49:200][842]LogSavePackage: Moving 'C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/gameStart7F3AE7414CD307CF0B2C0D8CC0DBC5F0.tmp' to 'C:/Users/zi/Documents/GitHub/ThiefGuard/Content/Maps/gameStart.umap'
+[2021.11.29-06.13.49:221][842]AssetCheck: New page: Asset Save: gameStart
+[2021.11.29-06.13.49:221][842]LogContentValidation: Display: Validating World /Game/Maps/gameStart.gameStart
+[2021.11.29-06.13.50:110][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.11.29-06.13.51:601][113]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.29-06.13.51:619][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/gameStart.gameStart:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart' with GeneratedClass '/Game/Maps/gameStart.gameStart_C' with ClassGeneratedBy '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart'
+[2021.11.29-06.13.51:619][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.29-06.13.51:633][113]PIE: New page: PIE session: gameStart (Nov 29, 2021, 4:13:51 PM)
+[2021.11.29-06.13.51:664][113]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.29-06.13.51:671][113]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.29-06.13.51:671][113]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_gameStart
+[2021.11.29-06.13.51:671][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000763s)
+[2021.11.29-06.13.51:672][113]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.51:672][113]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2021.11.29-06.13.51:672][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/gameStart.gameStart to /Game/Maps/UEDPIE_1_gameStart.gameStart (0.001601s)
+[2021.11.29-06.13.51:702][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.11.29-06.13.51:713][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.29-06.13.51:713][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.29-06.13.51:713][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.29-06.13.51:713][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.29-06.13.51:713][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.29-06.13.51:713][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.29-06.13.51:713][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.29-06.13.51:713][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.29-06.13.51:713][113]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.29-06.13.51:713][113]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: Is Default: Yes
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: Sample Rate: 48000
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: Channel Count Used: 2
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: Device Channel Count: 2
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: Channel Order:
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.29-06.13.51:731][113]LogAudioMixer: Display: 1: FrontRight
+[2021.11.29-06.13.51:740][113]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.11.29-06.13.51:741][113]LogInit: FAudioDevice initialized.
+[2021.11.29-06.13.51:751][113]LogLoad: Game class is 'myGameMode_C'
+[2021.11.29-06.13.51:752][113]LogWorld: Bringing World /Game/Maps/UEDPIE_1_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.51
+[2021.11.29-06.13.51:753][113]LogWorld: Bringing up level for play took: 0.000950
+[2021.11.29-06.13.51:753][113]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.11.29-06.13.51:811][113]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.29-06.13.51:851][113]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.29-06.13.51:851][113]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.29-06.13.51:851][113]LogInit: WinSock: I am UE (192.168.0.20:0)
+[2021.11.29-06.13.51:851][113]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.29-06.13.51:851][113]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.51:853][113]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2021.11.29-06.13.51:894][113]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_gameStart 0.686
+[2021.11.29-06.13.51:938][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.51:938][113]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.51:938][113]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.51:938][113]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.51:938][113]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.51:946][113]PIE: Play in editor start time for /Game/Maps/gameStart 0.738
+[2021.11.29-06.13.51:987][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.51:987][113]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.51:988][113]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.51:988][113]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.51:988][113]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.51:989][113]PIE: Play in editor start time for /Game/Maps/gameStart 0.781
+[2021.11.29-06.13.52:040][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.52:040][113]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.52:040][113]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.52:041][113]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.52:041][113]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.52:042][113]PIE: Play in editor start time for /Game/Maps/gameStart 0.833
+[2021.11.29-06.13.52:071][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.52:071][113]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.52:071][113]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.52:071][113]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.52:071][113]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.52:072][113]PIE: Play in editor start time for /Game/Maps/gameStart 0.864
+[2021.11.29-06.13.52:074][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/gameStart.gameStart:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart' with GeneratedClass '/Game/Maps/gameStart.gameStart_C' with ClassGeneratedBy '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart'
+[2021.11.29-06.13.52:075][113]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57827
+[2021.11.29-06.13.52:075][113]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 065019067109070203152233017018031041218081109082248036215095
+[2021.11.29-06.13.52:075][113]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57828
+[2021.11.29-06.13.52:075][113]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 043037255184246173001117074217069116232049026183034148053068
+[2021.11.29-06.13.52:076][113]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57829
+[2021.11.29-06.13.52:076][113]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 126222052066150180037052049223006115000152120046142053052157
+[2021.11.29-06.13.52:076][113]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57830
+[2021.11.29-06.13.52:076][113]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 194150224094201129111240157216097170112011091174228042195131
+[2021.11.29-06.13.52:124][113]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 065019067109070203152233017018031041218081109082248036215095
+[2021.11.29-06.13.52:125][113]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 043037255184246173001117074217069116232049026183034148053068
+[2021.11.29-06.13.52:125][113]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 126222052066150180037052049223006115000152120046142053052157
+[2021.11.29-06.13.52:125][113]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 194150224094201129111240157216097170112011091174228042195131
+[2021.11.29-06.13.52:400][114]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57827
+[2021.11.29-06.13.52:400][114]LogHandshake: SendChallengeAck. InCookie: 065019067109070203152233017018031041218081109082248036215095
+[2021.11.29-06.13.52:400][114]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57827
+[2021.11.29-06.13.52:400][114]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.52:400][114]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:52, [UNetConnection] RemoteAddr: 127.0.0.1:57827, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:400][114]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57827, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:400][114]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57828
+[2021.11.29-06.13.52:400][114]LogHandshake: SendChallengeAck. InCookie: 043037255184246173001117074217069116232049026183034148053068
+[2021.11.29-06.13.52:400][114]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57828
+[2021.11.29-06.13.52:400][114]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.52:400][114]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:52, [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:400][114]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:400][114]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57829
+[2021.11.29-06.13.52:400][114]LogHandshake: SendChallengeAck. InCookie: 126222052066150180037052049223006115000152120046142053052157
+[2021.11.29-06.13.52:400][114]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57829
+[2021.11.29-06.13.52:401][114]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.52:401][114]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:52, [UNetConnection] RemoteAddr: 127.0.0.1:57829, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:401][114]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57829, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:401][114]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57830
+[2021.11.29-06.13.52:401][114]LogHandshake: SendChallengeAck. InCookie: 194150224094201129111240157216097170112011091174228042195131
+[2021.11.29-06.13.52:401][114]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57830
+[2021.11.29-06.13.52:401][114]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.52:401][114]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:52, [UNetConnection] RemoteAddr: 127.0.0.1:57830, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:401][114]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57830, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:401][114]LogNetVersion: ThiefGuard 1.0.0.0, NetCL: 0, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2951460986)
+[2021.11.29-06.13.52:401][114]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:402][114]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:402][114]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:402][114]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_3, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.52:410][115]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.52:420][115]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.52:420][115]LogNet: This platform little endian=1
+[2021.11.29-06.13.52:420][115]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.52:420][115]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.52:420][115]LogNet: This platform little endian=1
+[2021.11.29-06.13.52:421][115]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.52:421][115]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.52:421][115]LogNet: This platform little endian=1
+[2021.11.29-06.13.52:421][115]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.52:421][115]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.52:421][115]LogNet: This platform little endian=1
+[2021.11.29-06.13.52:421][115]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.11.29-06.13.52:422][115]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.11.29-06.13.52:423][115]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.11.29-06.13.52:424][115]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.11.29-06.13.52:430][116]LogNet: Login request: /Game/Maps/gameStart?Name=UE-18B040874B88496F25F616852BFD6044 userId: NULL:UE-18B040874B88496F25F616852BFD6044 platform: NULL
+[2021.11.29-06.13.52:431][116]LogNet: Login request: /Game/Maps/gameStart?Name=UE-486403954FC6EA89C60F0486B6047C0C userId: NULL:UE-486403954FC6EA89C60F0486B6047C0C platform: NULL
+[2021.11.29-06.13.52:431][116]LogNet: Login request: /Game/Maps/gameStart?Name=UE-99FED21D4FC926772991BE83516AB15D userId: NULL:UE-99FED21D4FC926772991BE83516AB15D platform: NULL
+[2021.11.29-06.13.52:431][116]LogNet: Login request: /Game/Maps/gameStart?Name=UE-E5B1F0D44C4BE32F82EEADA9D185BAA0 userId: NULL:UE-E5B1F0D44C4BE32F82EEADA9D185BAA0 platform: NULL
+[2021.11.29-06.13.52:431][116]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.52:431][116]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.52:431][116]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2021.11.29-06.13.52:431][116]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.52:431][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.52:431][116]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.52:491][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.11.29-06.13.52:493][116]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.52:494][116]LogWorld: Bringing World /Game/Maps/UEDPIE_2_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.52
+[2021.11.29-06.13.52:494][116]LogWorld: Bringing up level for play took: 0.000141
+[2021.11.29-06.13.52:494][116]LogLoad: Took 0.062975 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.52:494][116]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.52:495][116]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.52:495][116]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2021.11.29-06.13.52:495][116]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.52:495][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.52:495][116]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.52:538][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.11.29-06.13.52:539][116]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.52:540][116]LogWorld: Bringing World /Game/Maps/UEDPIE_3_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.52
+[2021.11.29-06.13.52:540][116]LogWorld: Bringing up level for play took: 0.000143
+[2021.11.29-06.13.52:540][116]LogLoad: Took 0.045327 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.52:540][116]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.52:540][116]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.52:540][116]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2021.11.29-06.13.52:540][116]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.52:541][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.52:541][116]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.52:572][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.29-06.13.52:573][116]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.52:574][116]LogWorld: Bringing World /Game/Maps/UEDPIE_4_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.52
+[2021.11.29-06.13.52:574][116]LogWorld: Bringing up level for play took: 0.000135
+[2021.11.29-06.13.52:574][116]LogLoad: Took 0.033396 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.52:574][116]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.52:574][116]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.52:574][116]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2021.11.29-06.13.52:574][116]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.52:574][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.52:574][116]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.52:606][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.11.29-06.13.52:608][116]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.52:608][116]LogWorld: Bringing World /Game/Maps/UEDPIE_5_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.52
+[2021.11.29-06.13.52:609][116]LogWorld: Bringing up level for play took: 0.000120
+[2021.11.29-06.13.52:609][116]LogLoad: Took 0.034420 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.52:617][117]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.11.29-06.13.52:617][117]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.52:617][117]LogNet: Join request: /Game/Maps/gameStart?Name=UE-18B040874B88496F25F616852BFD6044?SplitscreenCount=1
+[2021.11.29-06.13.52:617][117]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.52:626][117]LogNet: Join succeeded: UE-18B040874B88496F2
+[2021.11.29-06.13.52:626][117]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.52:626][117]LogNet: Join request: /Game/Maps/gameStart?Name=UE-486403954FC6EA89C60F0486B6047C0C?SplitscreenCount=1
+[2021.11.29-06.13.52:626][117]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.52:628][117]LogNet: Join succeeded: UE-486403954FC6EA89C
+[2021.11.29-06.13.52:628][117]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.52:628][117]LogNet: Join request: /Game/Maps/gameStart?Name=UE-99FED21D4FC926772991BE83516AB15D?SplitscreenCount=1
+[2021.11.29-06.13.52:628][117]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.52:629][117]LogNet: Join succeeded: UE-99FED21D4FC926772
+[2021.11.29-06.13.52:629][117]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.52:629][117]LogNet: Join request: /Game/Maps/gameStart?Name=UE-E5B1F0D44C4BE32F82EEADA9D185BAA0?SplitscreenCount=1
+[2021.11.29-06.13.52:630][117]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.52:630][117]LogNet: Join succeeded: UE-E5B1F0D44C4BE32F8
+[2021.11.29-06.13.53:034][146]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:092][152]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:126][156]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:159][160]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:159][160]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:635][217]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:655][218]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:655][218]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:671][220]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:679][221]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:695][223]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:762][231]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:771][232]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:794][235]LogScript: Warning: Accessed None trying to read property spline
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:00B1
+[2021.11.29-06.13.53:795][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property spline". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  ForLoop Node:  Branch
+[2021.11.29-06.13.53:795][235]LogScript: Warning: Accessed None
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:00C6
+[2021.11.29-06.13.53:795][235]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  ForLoop Node:  Branch
+[2021.11.29-06.13.53:795][235]LogScript: Warning: Accessed None trying to read property spline
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:03CF
+[2021.11.29-06.13.53:795][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property spline". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  SpawnActor Dollar
+[2021.11.29-06.13.53:795][235]LogScript: Warning: Accessed None
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:03E4
+[2021.11.29-06.13.53:795][235]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  SpawnActor Dollar
+[2021.11.29-06.13.53:795][235]LogScript: Warning: Accessed None trying to read property spline
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:044F
+[2021.11.29-06.13.53:795][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property spline". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  SpawnActor Dollar
+[2021.11.29-06.13.53:795][235]LogScript: Warning: Accessed None
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:0464
+[2021.11.29-06.13.53:795][235]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  SpawnActor Dollar
+[2021.11.29-06.13.53:795][235]LogScript: Warning: Accessed None trying to read property spline
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:00B1
+[2021.11.29-06.13.53:795][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property spline". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  ForLoop Node:  Branch
+[2021.11.29-06.13.53:795][235]LogScript: Warning: Accessed None
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:00C6
+[2021.11.29-06.13.53:795][235]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  ForLoop Node:  Branch
+[2021.11.29-06.13.53:797][235]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_3_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:797][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:797][235]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_3_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:797][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:797][235]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_3_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:797][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:797][235]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_3_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:797][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:821][238]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_2_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:821][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:821][238]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_2_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:821][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:821][238]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_2_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:821][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:821][238]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_2_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:821][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:846][241]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.53:883][245]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_5_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:883][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:883][245]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_5_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:883][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:883][245]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_5_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:883][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:883][245]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_5_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:883][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:906][248]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_4_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:906][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:906][248]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_4_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:906][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:940][251]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_4_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:940][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.53:940][251]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_4_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.13.53:940][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.13.54:184][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.54:198][271]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.11.29-06.13.54:218][271]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.11.29-06.13.54:218][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/gameStart.gameStart:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart' with GeneratedClass '/Game/Maps/gameStart.gameStart_C' with ClassGeneratedBy '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart'
+[2021.11.29-06.13.54:219][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.54:219][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_5_gameStart
+[2021.11.29-06.13.54:224][271]LogSlate: Window 'ThiefGuard Game Preview Client 4 (64-bit/PCD3D_SM5)' being destroyed
+[2021.11.29-06.13.54:226][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.54:226][271]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.54:226][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.54:233][271]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2021.11.29-06.13.54:234][271]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2021.11.29-06.13.54:234][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-E5B1F0D44C4BE32F82EEADA9D185BAA0, Channels: 19, Time: 2021.11.29-06.13.54
+[2021.11.29-06.13.54:234][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-E5B1F0D44C4BE32F82EEADA9D185BAA0
+[2021.11.29-06.13.54:240][271]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2021.11.29-06.13.54:240][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_4_gameStart
+[2021.11.29-06.13.54:240][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.54:246][271]LogSlate: Window 'ThiefGuard Game Preview Client 3 (64-bit/PCD3D_SM5)' being destroyed
+[2021.11.29-06.13.54:247][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.54:247][271]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.54:248][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.54:256][271]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2021.11.29-06.13.54:256][271]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2021.11.29-06.13.54:256][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-99FED21D4FC926772991BE83516AB15D, Channels: 19, Time: 2021.11.29-06.13.54
+[2021.11.29-06.13.54:256][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-99FED21D4FC926772991BE83516AB15D
+[2021.11.29-06.13.54:257][271]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2021.11.29-06.13.54:257][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_gameStart
+[2021.11.29-06.13.54:257][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.54:262][271]LogSlate: Window 'ThiefGuard Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2021.11.29-06.13.54:264][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.54:265][271]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.54:265][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.54:271][271]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.11.29-06.13.54:271][271]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.11.29-06.13.54:271][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-486403954FC6EA89C60F0486B6047C0C, Channels: 19, Time: 2021.11.29-06.13.54
+[2021.11.29-06.13.54:272][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-486403954FC6EA89C60F0486B6047C0C
+[2021.11.29-06.13.54:272][271]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.11.29-06.13.54:272][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_gameStart
+[2021.11.29-06.13.54:272][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.54:276][271]LogSlate: Window 'ThiefGuard Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2021.11.29-06.13.54:278][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.54:278][271]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.54:279][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.54:286][271]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.11.29-06.13.54:286][271]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.11.29-06.13.54:286][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-18B040874B88496F25F616852BFD6044, Channels: 21, Time: 2021.11.29-06.13.54
+[2021.11.29-06.13.54:286][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-18B040874B88496F25F616852BFD6044
+[2021.11.29-06.13.54:286][271]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.11.29-06.13.54:287][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_gameStart
+[2021.11.29-06.13.54:287][271]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.11.29-06.13.54:287][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.54:287][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.54:287][271]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.54:287][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.54:294][271]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.11.29-06.13.54:294][271]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.11.29-06.13.54:294][271]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57827, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-18B040874B88496F25F616852BFD6044
+[2021.11.29-06.13.54:294][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57827, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-18B040874B88496F25F616852BFD6044, Channels: 21, Time: 2021.11.29-06.13.54
+[2021.11.29-06.13.54:294][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57827, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-18B040874B88496F25F616852BFD6044
+[2021.11.29-06.13.54:294][271]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57830, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:UE-E5B1F0D44C4BE32F82EEADA9D185BAA0
+[2021.11.29-06.13.54:294][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57830, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:UE-E5B1F0D44C4BE32F82EEADA9D185BAA0, Channels: 19, Time: 2021.11.29-06.13.54
+[2021.11.29-06.13.54:294][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57830, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:UE-E5B1F0D44C4BE32F82EEADA9D185BAA0
+[2021.11.29-06.13.54:294][271]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57829, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:UE-99FED21D4FC926772991BE83516AB15D
+[2021.11.29-06.13.54:294][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57829, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:UE-99FED21D4FC926772991BE83516AB15D, Channels: 19, Time: 2021.11.29-06.13.54
+[2021.11.29-06.13.54:294][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57829, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:UE-99FED21D4FC926772991BE83516AB15D
+[2021.11.29-06.13.54:294][271]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:UE-486403954FC6EA89C60F0486B6047C0C
+[2021.11.29-06.13.54:294][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:UE-486403954FC6EA89C60F0486B6047C0C, Channels: 19, Time: 2021.11.29-06.13.54
+[2021.11.29-06.13.54:294][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:UE-486403954FC6EA89C60F0486B6047C0C
+[2021.11.29-06.13.54:295][271]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.11.29-06.13.54:295][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.29-06.13.54:295][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/gameStart.gameStart:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart' with GeneratedClass '/Game/Maps/gameStart.gameStart_C' with ClassGeneratedBy '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart'
+[2021.11.29-06.13.54:310][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.54:354][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.54:362][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.54:375][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.11.29-06.13.54:495][272]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.11.29-06.13.54:495][272]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.11.29-06.13.54:495][272]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.29-06.13.54:495][272]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.11.29-06.13.54:495][272]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.11.29-06.13.55:719][376]LogSlate: Window 'Message Log' being destroyed
+[2021.11.29-06.13.55:722][376]LogSlate: Window 'Message Log' being destroyed
+[2021.11.29-06.13.58:643][668]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.29-06.13.58:652][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/gameStart.gameStart:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart' with GeneratedClass '/Game/Maps/gameStart.gameStart_C' with ClassGeneratedBy '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart'
+[2021.11.29-06.13.58:652][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.29-06.13.58:652][668]PIE: New page: PIE session: gameStart (Nov 29, 2021, 4:13:58 PM)
+[2021.11.29-06.13.58:652][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_gameStart
+[2021.11.29-06.13.58:653][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000747s)
+[2021.11.29-06.13.58:653][668]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.58:653][668]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2021.11.29-06.13.58:653][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/gameStart.gameStart to /Game/Maps/UEDPIE_1_gameStart.gameStart (0.001420s)
+[2021.11.29-06.13.58:684][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.11.29-06.13.58:684][668]LogLoad: Game class is 'myGameMode_C'
+[2021.11.29-06.13.58:685][668]LogWorld: Bringing World /Game/Maps/UEDPIE_1_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.58
+[2021.11.29-06.13.58:685][668]LogWorld: Bringing up level for play took: 0.000217
+[2021.11.29-06.13.58:685][668]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.29-06.13.58:685][668]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.29-06.13.58:685][668]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.29-06.13.58:686][668]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:686][668]LogNet: GameNetDriver IpNetDriver_5 IpNetDriver listening on port 17777
+[2021.11.29-06.13.58:686][668]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	gameStart_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.gameStart_C_2
+	Function /Game/Maps/gameStart.gameStart_C:ExecuteUbergraph_gameStart:0061
+[2021.11.29-06.13.58:686][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  gameStart Function:  Execute Ubergraph Game Start Graph:  EventGraph Node:  Add to Viewport
+[2021.11.29-06.13.58:686][668]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	myGameState_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameState_C_0
+	Function /Game/BluePrint/myGameState.myGameState_C:ExecuteUbergraph_myGameState:00E0
+[2021.11.29-06.13.58:686][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  myGameState Function:  Execute Ubergraph My Game State Graph:  EventGraph Node:  Add to Viewport
+[2021.11.29-06.13.58:686][668]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_gameStart -0.521
+[2021.11.29-06.13.58:687][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.29-06.13.58:687][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.29-06.13.58:687][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.29-06.13.58:687][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.29-06.13.58:687][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.29-06.13.58:687][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.29-06.13.58:687][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.29-06.13.58:687][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.29-06.13.58:688][668]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.29-06.13.58:688][668]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: Is Default: Yes
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: Sample Rate: 48000
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: Channel Count Used: 2
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: Device Channel Count: 2
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: Channel Order:
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.29-06.13.58:695][668]LogAudioMixer: Display: 1: FrontRight
+[2021.11.29-06.13.58:704][668]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.11.29-06.13.58:704][668]LogInit: FAudioDevice initialized.
+[2021.11.29-06.13.58:708][668]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.58:708][668]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.58:708][668]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:708][668]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.58:708][668]PIE: Play in editor start time for /Game/Maps/gameStart -0.499
+[2021.11.29-06.13.58:754][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.58:754][668]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.58:754][668]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.58:754][668]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:754][668]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.58:755][668]PIE: Play in editor start time for /Game/Maps/gameStart -0.452
+[2021.11.29-06.13.58:804][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.58:804][668]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.58:804][668]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.58:804][668]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:804][668]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.58:805][668]PIE: Play in editor start time for /Game/Maps/gameStart -0.402
+[2021.11.29-06.13.58:852][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.58:853][668]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.58:853][668]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.58:853][668]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:853][668]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.58:854][668]PIE: Play in editor start time for /Game/Maps/gameStart -0.354
+[2021.11.29-06.13.58:904][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.58:904][668]LogNet: Browse: 127.0.0.1:17777//Game/Maps/gameStart
+[2021.11.29-06.13.58:904][668]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.29-06.13.58:904][668]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:904][668]LogNet: Game client on port 17777, rate 10000
+[2021.11.29-06.13.58:905][668]PIE: Play in editor start time for /Game/Maps/gameStart -0.302
+[2021.11.29-06.13.58:909][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/gameStart.gameStart:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart' with GeneratedClass '/Game/Maps/gameStart.gameStart_C' with ClassGeneratedBy '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart'
+[2021.11.29-06.13.58:909][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57831
+[2021.11.29-06.13.58:909][668]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 133142025146120202063091182193042200081094179020173071059238
+[2021.11.29-06.13.58:909][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57832
+[2021.11.29-06.13.58:909][668]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 051037111181054173248042101222012147164077022162084089064115
+[2021.11.29-06.13.58:909][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57833
+[2021.11.29-06.13.58:909][668]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 096142171017204126057089012222048145090038107232204153158155
+[2021.11.29-06.13.58:909][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57834
+[2021.11.29-06.13.58:909][668]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 138080242095113144012079247130054067019079095216222095218163
+[2021.11.29-06.13.58:909][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57835
+[2021.11.29-06.13.58:909][668]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 090121118158118170200253195017228074017054028116023151037138
+[2021.11.29-06.13.58:909][668]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.11.29-06.13.58:910][668]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 133142025146120202063091182193042200081094179020173071059238
+[2021.11.29-06.13.58:910][668]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 051037111181054173248042101222012147164077022162084089064115
+[2021.11.29-06.13.58:911][668]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 096142171017204126057089012222048145090038107232204153158155
+[2021.11.29-06.13.58:911][668]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 138080242095113144012079247130054067019079095216222095218163
+[2021.11.29-06.13.58:911][668]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 090121118158118170200253195017228074017054028116023151037138
+[2021.11.29-06.13.58:948][669]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57831
+[2021.11.29-06.13.58:948][669]LogHandshake: SendChallengeAck. InCookie: 133142025146120202063091182193042200081094179020173071059238
+[2021.11.29-06.13.58:948][669]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57831
+[2021.11.29-06.13.58:948][669]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:948][669]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:58, [UNetConnection] RemoteAddr: 127.0.0.1:57831, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:948][669]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57831, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:948][669]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57832
+[2021.11.29-06.13.58:948][669]LogHandshake: SendChallengeAck. InCookie: 051037111181054173248042101222012147164077022162084089064115
+[2021.11.29-06.13.58:948][669]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57832
+[2021.11.29-06.13.58:949][669]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:949][669]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:58, [UNetConnection] RemoteAddr: 127.0.0.1:57832, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:949][669]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57832, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:949][669]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57833
+[2021.11.29-06.13.58:949][669]LogHandshake: SendChallengeAck. InCookie: 096142171017204126057089012222048145090038107232204153158155
+[2021.11.29-06.13.58:949][669]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57833
+[2021.11.29-06.13.58:949][669]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:949][669]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:58, [UNetConnection] RemoteAddr: 127.0.0.1:57833, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:949][669]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57833, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:949][669]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57834
+[2021.11.29-06.13.58:949][669]LogHandshake: SendChallengeAck. InCookie: 138080242095113144012079247130054067019079095216222095218163
+[2021.11.29-06.13.58:949][669]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57834
+[2021.11.29-06.13.58:949][669]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:949][669]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:58, [UNetConnection] RemoteAddr: 127.0.0.1:57834, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:949][669]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57834, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:949][669]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57835
+[2021.11.29-06.13.58:949][669]LogHandshake: SendChallengeAck. InCookie: 090121118158118170200253195017228074017054028116023151037138
+[2021.11.29-06.13.58:949][669]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57835
+[2021.11.29-06.13.58:949][669]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.29-06.13.58:949][669]LogNet: NotifyAcceptedConnection: Name: gameStart, TimeStamp: 11/29/21 11:13:58, [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:949][669]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:950][669]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:950][669]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:950][669]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:950][669]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_11, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:950][669]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_10, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.29-06.13.58:956][670]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.58:956][670]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: This platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.58:956][670]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: This platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.58:956][670]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: This platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.58:956][670]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: This platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_gameStart.gameStart: Accepted
+[2021.11.29-06.13.58:956][670]LogNet: Remote platform little endian=1
+[2021.11.29-06.13.58:956][670]LogNet: This platform little endian=1
+[2021.11.29-06.13.58:956][670]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.11.29-06.13.58:957][670]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.11.29-06.13.58:958][670]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.11.29-06.13.58:958][670]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.11.29-06.13.58:959][670]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.11.29-06.13.58:964][671]LogNet: Login request: /Game/Maps/gameStart?Name=UE-BB68981A4B5CC31B818DFCA9EBE58F37 userId: NULL:UE-BB68981A4B5CC31B818DFCA9EBE58F37 platform: NULL
+[2021.11.29-06.13.58:964][671]LogNet: Login request: /Game/Maps/gameStart?Name=UE-2361401E4648BA661E1C4D98B8BA5925 userId: NULL:UE-2361401E4648BA661E1C4D98B8BA5925 platform: NULL
+[2021.11.29-06.13.58:964][671]LogNet: Login request: /Game/Maps/gameStart?Name=UE-61CD31CB43B0941F7D5CA4B7381A6D45 userId: NULL:UE-61CD31CB43B0941F7D5CA4B7381A6D45 platform: NULL
+[2021.11.29-06.13.58:964][671]LogNet: Login request: /Game/Maps/gameStart?Name=UE-592689F04D7B10E8400CAC99BF0B9F00 userId: NULL:UE-592689F04D7B10E8400CAC99BF0B9F00 platform: NULL
+[2021.11.29-06.13.58:964][671]LogNet: Login request: /Game/Maps/gameStart?Name=UE-EAD0D03A4E2D45B6F96762AE52C69D74 userId: NULL:UE-EAD0D03A4E2D45B6F96762AE52C69D74 platform: NULL
+[2021.11.29-06.13.58:965][671]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.58:965][671]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.58:965][671]LogWorld: BeginTearingDown for /Temp/Untitled_5
+[2021.11.29-06.13.58:965][671]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.58:965][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.58:965][671]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.58:991][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.11.29-06.13.58:993][671]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.58:994][671]LogWorld: Bringing World /Game/Maps/UEDPIE_2_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.58
+[2021.11.29-06.13.58:994][671]LogWorld: Bringing up level for play took: 0.000130
+[2021.11.29-06.13.58:994][671]LogLoad: Took 0.029228 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.58:994][671]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.58:994][671]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.58:994][671]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2021.11.29-06.13.58:994][671]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.58:994][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.58:994][671]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.59:025][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.11.29-06.13.59:027][671]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.59:028][671]LogWorld: Bringing World /Game/Maps/UEDPIE_3_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.59
+[2021.11.29-06.13.59:028][671]LogWorld: Bringing up level for play took: 0.000130
+[2021.11.29-06.13.59:028][671]LogLoad: Took 0.034047 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.59:028][671]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.59:028][671]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.59:028][671]LogWorld: BeginTearingDown for /Temp/Untitled_7
+[2021.11.29-06.13.59:028][671]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.59:028][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.59:028][671]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.59:060][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.11.29-06.13.59:061][671]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.59:062][671]LogWorld: Bringing World /Game/Maps/UEDPIE_4_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.59
+[2021.11.29-06.13.59:062][671]LogWorld: Bringing up level for play took: 0.000141
+[2021.11.29-06.13.59:062][671]LogLoad: Took 0.033976 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.59:063][671]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.59:063][671]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.59:063][671]LogWorld: BeginTearingDown for /Temp/Untitled_8
+[2021.11.29-06.13.59:063][671]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.59:063][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.59:063][671]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.59:094][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.11.29-06.13.59:096][671]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.59:097][671]LogWorld: Bringing World /Game/Maps/UEDPIE_5_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.59
+[2021.11.29-06.13.59:097][671]LogWorld: Bringing up level for play took: 0.000133
+[2021.11.29-06.13.59:097][671]LogLoad: Took 0.033929 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.59:097][671]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_gameStart, Game: /Game/BluePrint/myGameMode.myGameMode_C)
+[2021.11.29-06.13.59:097][671]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_gameStart?game=/Game/BluePrint/myGameMode.myGameMode_C
+[2021.11.29-06.13.59:097][671]LogWorld: BeginTearingDown for /Temp/Untitled_9
+[2021.11.29-06.13.59:097][671]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.59:097][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.59:097][671]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.13.59:129][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.11.29-06.13.59:131][671]LogAIModule: Creating AISystem for world gameStart
+[2021.11.29-06.13.59:131][671]LogWorld: Bringing World /Game/Maps/UEDPIE_6_gameStart.gameStart up for play (max tick rate 0) at 2021.11.29-11.13.59
+[2021.11.29-06.13.59:131][671]LogWorld: Bringing up level for play took: 0.000142
+[2021.11.29-06.13.59:132][671]LogLoad: Took 0.034632 seconds to LoadMap(/Game/Maps/UEDPIE_1_gameStart)
+[2021.11.29-06.13.59:136][672]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.59:136][672]LogNet: Join request: /Game/Maps/gameStart?Name=UE-BB68981A4B5CC31B818DFCA9EBE58F37?SplitscreenCount=1
+[2021.11.29-06.13.59:137][672]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:138][672]LogNet: Join succeeded: UE-BB68981A4B5CC31B8
+[2021.11.29-06.13.59:138][672]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.59:138][672]LogNet: Join request: /Game/Maps/gameStart?Name=UE-2361401E4648BA661E1C4D98B8BA5925?SplitscreenCount=1
+[2021.11.29-06.13.59:138][672]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:139][672]LogNet: Join succeeded: UE-2361401E4648BA661
+[2021.11.29-06.13.59:139][672]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.59:139][672]LogNet: Join request: /Game/Maps/gameStart?Name=UE-61CD31CB43B0941F7D5CA4B7381A6D45?SplitscreenCount=1
+[2021.11.29-06.13.59:139][672]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:140][672]LogNet: Join succeeded: UE-61CD31CB43B0941F7
+[2021.11.29-06.13.59:140][672]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.59:140][672]LogNet: Join request: /Game/Maps/gameStart?Name=UE-592689F04D7B10E8400CAC99BF0B9F00?SplitscreenCount=1
+[2021.11.29-06.13.59:140][672]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:141][672]LogNet: Join succeeded: UE-592689F04D7B10E84
+[2021.11.29-06.13.59:141][672]LogNet: Client netspeed is 10000
+[2021.11.29-06.13.59:141][672]LogNet: Join request: /Game/Maps/gameStart?Name=UE-EAD0D03A4E2D45B6F96762AE52C69D74?SplitscreenCount=1
+[2021.11.29-06.13.59:141][672]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:142][672]LogNet: Join succeeded: UE-EAD0D03A4E2D45B6F
+[2021.11.29-06.13.59:741][732]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:790][738]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:791][738]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:792][738]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:857][746]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:881][749]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:889][750]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:909][752]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:915][753]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:958][758]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:960][758]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:966][759]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:982][761]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:984][761]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.13.59:991][762]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:009][764]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:015][765]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:041][768]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:065][771]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:066][771]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:115][777]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:141][780]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:157][782]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:166][783]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:190][786]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.29-06.14.00:645][840]LogScript: Warning: Accessed None trying to read property spline
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:00B1
+[2021.11.29-06.14.00:645][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property spline". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  ForLoop Node:  Branch
+[2021.11.29-06.14.00:645][840]LogScript: Warning: Accessed None
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:00C6
+[2021.11.29-06.14.00:645][840]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  ForLoop Node:  Branch
+[2021.11.29-06.14.00:645][840]LogScript: Warning: Accessed None trying to read property spline
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:03CF
+[2021.11.29-06.14.00:645][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property spline". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  SpawnActor Dollar
+[2021.11.29-06.14.00:645][840]LogScript: Warning: Accessed None
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:03E4
+[2021.11.29-06.14.00:645][840]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  SpawnActor Dollar
+[2021.11.29-06.14.00:646][840]LogScript: Warning: Accessed None trying to read property spline
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:044F
+[2021.11.29-06.14.00:646][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property spline". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  SpawnActor Dollar
+[2021.11.29-06.14.00:646][840]LogScript: Warning: Accessed None
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:0464
+[2021.11.29-06.14.00:646][840]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  EventGraph Node:  SpawnActor Dollar
+[2021.11.29-06.14.00:646][840]LogScript: Warning: Accessed None trying to read property spline
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:00B1
+[2021.11.29-06.14.00:646][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property spline". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  ForLoop Node:  Branch
+[2021.11.29-06.14.00:646][840]LogScript: Warning: Accessed None
+	myGameMode_C /Game/Maps/UEDPIE_1_gameStart.gameStart:PersistentLevel.myGameMode_C_0
+	Function /Game/BluePrint/myGameMode.myGameMode_C:ExecuteUbergraph_myGameMode:00C6
+[2021.11.29-06.14.00:646][840]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  myGameMode Function:  Execute Ubergraph My Game Mode Graph:  ForLoop Node:  Branch
+[2021.11.29-06.14.00:647][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_2_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:647][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:647][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_2_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:647][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:648][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_3_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:648][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:648][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_3_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:648][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:649][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_4_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:649][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:649][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_4_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:649][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:650][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_5_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:650][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:650][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_5_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:651][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:651][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_6_gameStart.gameStart:PersistentLevel.light_C_0
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:652][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:652][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:659][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_2_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:659][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:659][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_2_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:659][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:660][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_3_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:660][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:660][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_3_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:660][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:661][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_4_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:661][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:661][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_4_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:661][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:661][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_5_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:661][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:661][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_5_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:661][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:662][841]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	light_C /Game/Maps/UEDPIE_6_gameStart.gameStart:PersistentLevel.light_C_1
+	Function /Game/BluePrint/Actor/light.light_C:ExecuteUbergraph_light:01F3
+[2021.11.29-06.14.00:662][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.00:662][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  light Function:  Execute Ubergraph Light Graph:  EventGraph Node:  Cast To thief
+[2021.11.29-06.14.01:367][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.14.01:368][921]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.11.29-06.14.01:388][921]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.11.29-06.14.01:389][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/gameStart.gameStart:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart' with GeneratedClass '/Game/Maps/gameStart.gameStart_C' with ClassGeneratedBy '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart'
+[2021.11.29-06.14.01:389][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.14.01:389][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_6_gameStart
+[2021.11.29-06.14.01:393][921]LogSlate: Window 'ThiefGuard Game Preview Client 5 (64-bit/PCD3D_SM5)' being destroyed
+[2021.11.29-06.14.01:395][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.14.01:395][921]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.01:396][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.01:399][921]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2021.11.29-06.14.01:399][921]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2021.11.29-06.14.01:399][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-EAD0D03A4E2D45B6F96762AE52C69D74, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:399][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-EAD0D03A4E2D45B6F96762AE52C69D74
+[2021.11.29-06.14.01:399][921]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2021.11.29-06.14.01:400][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_5_gameStart
+[2021.11.29-06.14.01:400][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.14.01:405][921]LogSlate: Window 'ThiefGuard Game Preview Client 4 (64-bit/PCD3D_SM5)' being destroyed
+[2021.11.29-06.14.01:406][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.14.01:406][921]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.01:407][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.01:414][921]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2021.11.29-06.14.01:414][921]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2021.11.29-06.14.01:414][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-592689F04D7B10E8400CAC99BF0B9F00, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:414][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-592689F04D7B10E8400CAC99BF0B9F00
+[2021.11.29-06.14.01:414][921]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2021.11.29-06.14.01:415][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_4_gameStart
+[2021.11.29-06.14.01:415][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.14.01:421][921]LogSlate: Window 'ThiefGuard Game Preview Client 3 (64-bit/PCD3D_SM5)' being destroyed
+[2021.11.29-06.14.01:422][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.14.01:422][921]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.01:422][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.01:429][921]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2021.11.29-06.14.01:429][921]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2021.11.29-06.14.01:429][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-61CD31CB43B0941F7D5CA4B7381A6D45, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:429][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-61CD31CB43B0941F7D5CA4B7381A6D45
+[2021.11.29-06.14.01:429][921]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2021.11.29-06.14.01:430][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_gameStart
+[2021.11.29-06.14.01:430][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.14.01:435][921]LogSlate: Window 'ThiefGuard Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2021.11.29-06.14.01:436][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.14.01:436][921]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.01:437][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.01:443][921]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2021.11.29-06.14.01:443][921]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2021.11.29-06.14.01:443][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-2361401E4648BA661E1C4D98B8BA5925, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:443][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-2361401E4648BA661E1C4D98B8BA5925
+[2021.11.29-06.14.01:443][921]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2021.11.29-06.14.01:444][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_gameStart
+[2021.11.29-06.14.01:444][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.14.01:444][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.14.01:444][921]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.01:444][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.01:451][921]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2021.11.29-06.14.01:451][921]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2021.11.29-06.14.01:451][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-BB68981A4B5CC31B818DFCA9EBE58F37, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:451][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-BB68981A4B5CC31B818DFCA9EBE58F37
+[2021.11.29-06.14.01:451][921]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2021.11.29-06.14.01:451][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_gameStart
+[2021.11.29-06.14.01:451][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.14.01:452][921]LogWorld: UWorld::CleanupWorld for gameStart, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.01:452][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.01:453][921]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2021.11.29-06.14.01:453][921]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:UE-EAD0D03A4E2D45B6F96762AE52C69D74
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:UE-EAD0D03A4E2D45B6F96762AE52C69D74, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:453][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:UE-EAD0D03A4E2D45B6F96762AE52C69D74
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57834, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:UE-592689F04D7B10E8400CAC99BF0B9F00
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57834, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:UE-592689F04D7B10E8400CAC99BF0B9F00, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:453][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57834, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:UE-592689F04D7B10E8400CAC99BF0B9F00
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57833, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:UE-61CD31CB43B0941F7D5CA4B7381A6D45
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57833, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:UE-61CD31CB43B0941F7D5CA4B7381A6D45, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:453][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57833, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:UE-61CD31CB43B0941F7D5CA4B7381A6D45
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57832, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-2361401E4648BA661E1C4D98B8BA5925
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57832, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-2361401E4648BA661E1C4D98B8BA5925, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:453][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57832, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:UE-2361401E4648BA661E1C4D98B8BA5925
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57831, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:UE-BB68981A4B5CC31B818DFCA9EBE58F37
+[2021.11.29-06.14.01:453][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57831, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:UE-BB68981A4B5CC31B818DFCA9EBE58F37, Channels: 23, Time: 2021.11.29-06.14.01
+[2021.11.29-06.14.01:453][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57831, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_0, Owner: PlayerController_0, UniqueId: NULL:UE-BB68981A4B5CC31B818DFCA9EBE58F37
+[2021.11.29-06.14.01:454][921]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2021.11.29-06.14.01:454][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.29-06.14.01:454][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/gameStart.gameStart:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart' with GeneratedClass '/Game/Maps/gameStart.gameStart_C' with ClassGeneratedBy '/Game/Maps/gameStart.gameStart:PersistentLevel.gameStart'
+[2021.11.29-06.14.01:458][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.01:489][921]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.11.29-06.14.01:491][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.14.01:496][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.11.29-06.14.01:596][922]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.11.29-06.14.01:596][922]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.11.29-06.14.01:596][922]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.11.29-06.14.01:596][922]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.11.29-06.14.01:596][922]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.11.29-06.14.01:596][922]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.11.29-06.14.02:651][  8]LogSlate: Window 'Message Log' being destroyed
+[2021.11.29-06.14.02:653][  8]LogSlate: Window 'Message Log' being destroyed
+[2021.11.29-06.14.20:444][981]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.29-06.14.33:078][416]LogSlate: Window 'Plugins' being destroyed
+[2021.11.29-06.14.33:081][416]LogSlate: Window 'Plugins' being destroyed
+[2021.11.29-06.14.33:081][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.11.29-06.14.40:375][100]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.29-06.14.44:303][522]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/myGameInstance.myGameInstance
+[2021.11.29-06.14.49:109][ 48]LogSlate: Took 0.020285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.29-06.14.57:694][990]BlueprintLog: New page: Compile myGameInstance
+[2021.11.29-06.14.57:730][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.11.29-06.14.58:239][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/myGameInstance" FILE="C:/Users/zi/Documents/GitHub/ThiefGuard/Content/BluePrint/myGameInstance.uasset" SILENT=true
+[2021.11.29-06.14.58:240][ 34]LogSavePackage: Moving 'C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/myGameInstance75394756407A5537AACCEB80F03986BE.tmp' to 'C:/Users/zi/Documents/GitHub/ThiefGuard/Content/BluePrint/myGameInstance.uasset'
+[2021.11.29-06.14.58:260][ 34]AssetCheck: New page: Asset Save: myGameInstance
+[2021.11.29-06.14.58:260][ 34]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/myGameInstance.myGameInstance
+[2021.11.29-06.14.59:017][100]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.59:017][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.15.55:352][189]BlueprintLog: New page: Compile gameStartOldd
+[2021.11.29-06.15.55:392][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.11.29-06.23.54:219][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.11.29-06.23.54:221][ 34]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/gameStart' took 0.039
+[2021.11.29-06.23.54:225][ 34]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/gameStartOldd] ([1] browsable assets)...
+[2021.11.29-06.23.54:225][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/gameStartOldd]
+[2021.11.29-06.23.54:225][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/gameStartOldd" FILE="C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Autosaves/Game/UI/gameStartOldd_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.11.29-06.23.54:234][ 34]LogSavePackage: Moving 'C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/gameStartOldd_Auto1901B370347D566D01E0AECA3A27062E5.tmp' to 'C:/Users/zi/Documents/GitHub/ThiefGuard/Saved/Autosaves/Game/UI/gameStartOldd_Auto1.uasset'
+[2021.11.29-06.23.54:235][ 34]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.11.29-06.33.31:494][318]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.11.29-06.33.31:494][318]Warning: EnterName: Parse error while importing property values (PinName = EnterName).
+[2021.11.29-06.33.31:497][318]LogLinker: Warning: Unable to load package (C:/Users/zi/Documents/GitHub/ThiefGuard/Content/UI/GameStart.uasset) PackageVersion 522, MaxExpected 518 : LicenseePackageVersion 0, MaxExpected 0.
+[2021.11.29-06.33.31:497][318]LogLinker: Warning: Unable to load package (C:/Users/zi/Documents/GitHub/ThiefGuard/Content/UI/gameStart.uasset) PackageVersion 522, MaxExpected 518 : LicenseePackageVersion 0, MaxExpected 0.
+[2021.11.29-06.33.31:498][318]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.11.29-06.33.31:498][318]Warning: self: Parse error while importing property values (PinName = self).
+[2021.11.29-06.33.31:498][318]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.11.29-06.33.31:498][318]Warning: self: Parse error while importing property values (PinName = self).
+[2021.11.29-06.33.31:498][318]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.11.29-06.33.31:498][318]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2021.11.29-06.33.31:498][318]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.11.29-06.33.31:498][318]Warning: self: Parse error while importing property values (PinName = self).
+[2021.11.29-06.33.31:498][318]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.11.29-06.33.31:498][318]Warning: InText: Parse error while importing property values (PinName = InText).
+[2021.11.29-06.33.31:498][318]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2021.11.29-06.33.31:498][318]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2021.11.29-06.33.31:504][318]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.29-06.34.09:090][318]LogStats: FPlatformStackWalk::StackWalkAndDump - 37.586 s
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: 
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: Ensure condition failed: ThisPin [File:D:/UnrealEngine-4.24/Engine/Source/Editor/UnrealEd/Private/EdGraphUtilities.cpp] [Line: 38]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: 
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: Stack: 
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94ba9f5b8 UE4Editor-UnrealEd.dll!<lambda_d2692dbba4d67f30c18c728f766f8488>::operator()() [d:\unrealengine-4.24\engine\source\editor\unrealed\private\edgraphutilities.cpp:38]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94ae5be46 UE4Editor-UnrealEd.dll!`anonymous namespace'::PostProcessPastedNodePinLinks() [d:\unrealengine-4.24\engine\source\editor\unrealed\private\edgraphutilities.cpp:38]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94ae5c262 UE4Editor-UnrealEd.dll!FEdGraphUtilities::PostProcessPastedNodes() [d:\unrealengine-4.24\engine\source\editor\unrealed\private\edgraphutilities.cpp:213]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94ae461b0 UE4Editor-UnrealEd.dll!FEdGraphUtilities::ImportNodesFromText() [d:\unrealengine-4.24\engine\source\editor\unrealed\private\edgraphutilities.cpp:416]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff949473677 UE4Editor-Kismet.dll!FBlueprintEditor::PasteNodesHere() [d:\unrealengine-4.24\engine\source\editor\kismet\private\blueprinteditor.cpp:6436]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff949473436 UE4Editor-Kismet.dll!FBlueprintEditor::PasteNodes() [d:\unrealengine-4.24\engine\source\editor\kismet\private\blueprinteditor.cpp:6209]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94944b458 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\unrealengine-4.24\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:369]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94d3bccea UE4Editor-Slate.dll!FUICommandList::ConditionalProcessCommandBindings() [d:\unrealengine-4.24\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:220]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94d3f83be UE4Editor-Slate.dll!FUICommandList::ProcessCommandBindings() [d:\unrealengine-4.24\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:164]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff945965018 UE4Editor-GraphEditor.dll!SGraphEditorImpl::OnKeyDown() [d:\unrealengine-4.24\engine\source\editor\grapheditor\private\sgrapheditorimpl.cpp:110]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94d381ee1 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_884ae9969c3cb3acb5f6265b67adef4c> >() [d:\unrealengine-4.24\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:372]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94d3fa22d UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [d:\unrealengine-4.24\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4151]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff94d3eefff UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [d:\unrealengine-4.24\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4059]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff955044918 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\unrealengine-4.24\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1793]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff95503242f UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\unrealengine-4.24\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2410]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff955047195 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\unrealengine-4.24\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1638]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff95502ec40 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\unrealengine-4.24\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:789]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff9a772e7e8 USER32.dll!UnknownFunction []
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff9a772e229 USER32.dll!UnknownFunction []
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff955048699 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\unrealengine-4.24\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff787fe6db0 UE4Editor.exe!FEngineLoop::Tick() [d:\unrealengine-4.24\engine\source\runtime\launch\private\launchengineloop.cpp:4397]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff787ffc3ec UE4Editor.exe!GuardedMain() [d:\unrealengine-4.24\engine\source\runtime\launch\private\launch.cpp:173]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff787ffc4ca UE4Editor.exe!GuardedMainWrapper() [d:\unrealengine-4.24\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff78800ceae UE4Editor.exe!WinMain() [d:\unrealengine-4.24\engine\source\runtime\launch\private\windows\launchwindows.cpp:263]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff78800fcbe UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff9a7b97034 KERNEL32.DLL!UnknownFunction []
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: [Callstack] 0x00007ff9a8162651 ntdll.dll!UnknownFunction []
+[2021.11.29-06.34.09:090][318]LogOutputDevice: Error: 
+[2021.11.29-06.34.09:101][318]LogStats:                SubmitErrorReport -  0.000 s
